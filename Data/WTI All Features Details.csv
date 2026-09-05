@@ -1,0 +1,41 @@
+Bloomberg ID,Bloomberg Name,Common Name,Description,Start date,Frequency
+VIX Index,Cboe Volatility Index,VIX Index,S&P 500 implied volatility index,02/01/1990,Daily
+OVX Index,Cboe Oil ETF VIX Index,OVX Index,Crude futures implied volatility index,10/05/2007,Daily
+MOVE Index,MOVE,MOVE Index,US Treasuries implied volatility index,04/04/1988,Daily
+DXY Curncy,DOLLAR INDEX SPOT,USD FX,Weighted average of 6 US Dollar exchange rates,01/01/1985,Daily
+FDTR Index,Federal Funds Target Rate - Up,Fed Rate Upper Target,Target Fed rate upper bound,01/01/1985,Daily (Fed meetings)
+FDFD Index,ICAP US Federal Funds Rate,Fed Rate,Fed effective rate,17/02/1995,Daily
+GT10 Govt,US TREASURY N/B,10Y Treasury Yield,10 year US treasury yield,01/01/1985,Daily
+GDP CQOQ Index,GDP US Chained Dollars QoQ SAA,US QoQ GDP Growth,US QoQ GDP growth,01/01/1985,Quarterly
+BENWUSGC Index,Bloomberg Economics US GDP Now,US QoQ GDP Growth Nowcast,US GDP QoQ growth nowcast,31/03/2020,Daily
+GDGCAFJP Index,Atlanta Fed GDPNow GDP Forecas,US QoQ GDP Growth Nowcast,US GDP QoQ growth nowcast,25/08/2011,Daily
+STLNENIC Index,US St Louis Fed Economic News,US QoQ GDP Growth Nowcast,US GDP QoQ growth nowcast,17/02/2017,Daily
+NAPMPMI Index,ISM Manufacturing PMI SA,US Purchasing Managers Index,US Purchasing Managers Index,01/01/1985,Monthly
+SPX Index,S&P 500 INDEX,S&P 500,S&P 500 index,01/01/1985,Daily
+ES1 Index,Generic 1st 'ES' Future,S&P 500 Futures,S&P 500 1 month futures,09/09/1997,Daily
+MXWO Index,MSCI WORLD,MSCI World Index,MSCI World index,01/01/1985,Daily
+CL1 Comdty,Generic 1st 'CL' Future,WTI Price,WTI 1 month futures,01/01/1985,Daily
+CO1 Comdty,Generic 1st 'CO' Future,Brent Price,Brent 1 month futures,23/06/1988,Daily
+HOCL1 Index,Bloomberg Nymex Heating Oil Ny,Heating Oil Spread,Heating oil spread (refining margin),02/07/2009,Daily
+USCSMEHC Index,Crude Oil WTI Houston vs Cushi,Cushing Crude Price,Regional US crude grade price,23/01/2017,Daily
+CRK321M1 Index,Bloomberg Nymex WTI Cushing Cr,321 Crack Spread,Standard 3-2-1 crack spread (refining margin),25/11/1986,Daily
+HUCL1 Index,Bloomberg Nymex Gasoline Nymex,Gasoline Spread,Gasoline spread (refining margin),02/07/2009,Daily
+CLCO1 Index,Bloomberg First Month Nymex WT,WTI-Brent Spread,WTI-Brent 1 month spread,23/04/2003,Daily
+DSUPKERO Index,DOE Days of Supply for Kerosen,Kerosene Days of Supply,Inventory-to-demand ratio for kerosene,08/03/1991,Weekly
+DSUPGASL Index,DOE Days of Supply for Gasolin,Gasoline Days of Supply,Inventory-to-demand ratio for gasoline,08/03/1991,Weekly
+DOEICRP2 Index,DOE Crude Oil Import Data/PADD,Cushing Crude Imports,Crude flowing into Cushing region,05/01/1990,Weekly
+BAKETOT Index,Baker Hughes United States Oil,Active US Oil & Gas Rigs,"Number of active, drilling US oil and gas rigs",01/01/1985,Weekly
+BAKEGAS Index,Baker Hughes United States Nat,Active US Gas Rigs,"Number of active, drilling US gas rigs",17/07/1987,Weekly
+DOESCRUD Index,DOE Crude Oil Total Inventory,US Crude Inventory,Total volume of US oil stocks,01/01/1985,Weekly
+DOESCROK Index,DOE Cushing Oklahoma Crude Oil,Cushing Crude Inventory,Volume of oil stored at Cushing,09/04/2004,Weekly
+DSUPCRUD Index,DOE Days of Supply for Crude O,Crude Days of Supply,Inventory-to-demand ratio for crude oil,01/01/1985,Weekly
+DOEPGRIN Index,DOE Gross Oil Total Refinery I,US Crude Processed Volume,Volume of crude processed by US refineries,08/09/1989,Weekly
+DOEPPERC Index,DOE Percent Utilization Refine,US Refinery Utilization Rate,Volume of crude processed by US refineries / total US refining capacity,08/09/1989,Weekly
+DSUPDIST Index,DOE Days of Supply for Distill,Distillate Days of Supply,Inventory-to-demand ratio for distillate,08/03/1991,Weekly
+FZWWFST VTXD Index,Global Crude Oil Floating Stor,N/A,N/A,#N/A,N/A
+EUR Curncy,Euro Spot,EUR FX,EUR/USD exchange rate,01/01/1985,Daily
+IP Index,US Industrial Production SA,US Industrial Production,Measure of US industrial production,01/01/1985,Monthly
+CAD Curncy,Canadian Dollar Spot,CAD FX,CAD/USD exchange rate,01/01/1985,Daily
+INJCJC Index,US Initial Jobless Claims SA,US Jobless Claims,Number of US jobless claims,01/01/1985,Weekly
+CNVSPSGR Index,China Automobile Sales Passeng,China Automobile Sales,China passenger vehicle sales,31/01/2005,Monthly
+EPUSTOT Index,Edison Electric United States,US Electricity Output,US electricity output,06/01/1989,Monthly

@@ -1,0 +1,10 @@
+{
+  "HIDDEN_SIZE": 32,
+  "DROPOUT": 0.2,
+  "SEQ_LEN": 8,
+  "NUM_LAYERS": 2,
+  "BATCH_SIZE": 32,
+  "N_EPOCHS": 100,
+  "PATIENCE": 15,
+  "VALIDATION_SPLIT": 0.2
+}
